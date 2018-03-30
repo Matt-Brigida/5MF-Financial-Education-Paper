@@ -1,0 +1,78 @@
+---
+title: The 5MinuteFinance Project
+author: William Pratt and Matt Brigida
+output: word_document
+---
+
+# Introduction
+
+## Crowdsourcing
+
+'Leveraging underutilized assets'
+
+## Delivery: Embracing the Web 
+
+## Student Feedback
+
+## Conclusion
+
+
+<!--- STYLE GUIDE FROM: https://jfed.scholasticahq.com/for-authors
+Journal of Financial Education / Advances in Financial Education (JFEd/AFEd)
+General Submission Guidelines
+Material must be original, accurate, in good form editorially, and not under consideration with another journal.
+
+Please proof-read your paper very carefully and thoroughly to make sure there are no spelling or grammatical errors.
+
+All articles listed in the Reference section MUST be cited in the paper and all sources cited in the paper MUST be listed in the Reference section. PLEASE carefully check to make sure that you comply with this requirement!
+
+Save your paper as a Microsoft Word .doc or .docx file. Make sure the “track changes” feature is turned off. Make sure the View is at 100%. Before submitting, be sure that when you open the file, there are no unfinished changes or comments that display in the document.
+
+All submissions must conform to the Publication Manual of the American Psychological Association (APA 6th ed.) – see https://owl.english.purdue.edu/owl/section/2/10/
+
+Use standard 1 inch page margins on all sides (left/right/top/bottom). Font: Times New Roman, 12 point. Double-Space your manuscript (except for tables – see below). Indent the first sentence in every paragraph (0.5 inches). Do not add additional spaces anywhere.
+
+Manuscripts should not exceed 6000 words, excluding references.
+
+General Order of Manuscript Pages
+Cover Page
+The cover page contains the paper title and abstract ONLY. Do NOT display author names or any information about the authors anywhere in the manuscript.
+
+The Body of Your Paper
+The first page of the manuscript for review is the beginning of the text and includes the title of the paper but no author information. The body of the text is to be double spaced. All pages except the abstract page are numbered consecutively at the bottom, right hand corner of the page. The references are inserted after the main body of the paper.
+
+*Insert Tables and Figures in the body of the paper where they best fit in the discussion. Avoid tables or figures being split between pages.
+
+Specific Guidelines for Submitted Manuscript
+Title: manuscript titles should be no longer than 12 words, centered on the page, 12 point Times Roman, in bold type. Do not capitalize first letter of words like of, to, a, an, for, and so on. For example:
+
+How to Teach Finance in a Modern Classroom
+
+Abstract: the abstract must not exceed 200 words, left justified, 12 point Times Roman, in regular font. Do not include citations in the abstract.
+
+First section of paper will most always be INTRODUCTION
+
+Section headings: there are three acceptable section headings with special formatting:
+
+• First level section: all caps and bolded (e.g., INTRODUCTION); left justified
+• Second level section: Cap Only First Letter of Each Word and Bold Heading (e.g., Review of Literature); left justified. Do not capitalize the first letter of words like of, to, a, an, for, and so on.
+• Third level section: Cap only first letter of each word and Italicize heading (e.g., Model Design); left justified. Do not capitalize first letter of words like of, to, a, an, for, and so on.
+
+Do not use footnotes or endnotes anywhere in the paper. If the information is important enough, insert it in the main text.
+
+Last section of the paper should be REFERENCES. Use APA style for all references. For example:
+
+Smith, J., Chung, J., & Gomez, J. (2014). How to Teach Finance in a Modern Classroom. Journal of Financial Education, 48(2), 33-51.
+
+A good website that will create APA formatted references is: 
+http://www.citationmachine.net/apa/cite-a-journal/manual
+
+Tables and Figures. Tables and Figures are titled as:
+
+Table 1: Analysis of Student Responses
+Figure 1: Diagrammatic Channels of Authority
+
+Size of table. All tables should be single spaced. Use font size of no less than 9 pt. if that is required to fit your table on a single page.
+
+Appendix or Appendices: always follow the last section of the paper (i.e., REFERENCES) with titles of APPENDIX 1, APPENDIX 2, and so on.
+-->
