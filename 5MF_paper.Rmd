@@ -6,15 +6,41 @@ output: word_document
 
 # Introduction
 
-## Crowdsourcing
+-  Making textbooks come alive.
+-  Allow students to interact with massive amounts of data to immediately test theories in the real world.
+-  Collaboratively generate material.
 
-'Leveraging underutilized assets'
 
-## Delivery: Embracing the Web 
+## Similar Projects in other Fields
 
-## Student Feedback
+# Technology
 
-## Conclusion
+<!-- Why now?---enabled by tech.  Want to make this point up front. -->
+
+## Git
+
+### Git Blame: Author Attribution
+
+## Github
+
+Github allows anyone to view a `git blame`, and even contribute to projects, over https (in a web browser).  This means, with Githib, it is not necessary to know how to use git, or even have it installed, to view or interact with a project. 
+
+
+## R/C/C++
+
+## Javascript
+
+
+# Delivery: Embracing the Web 
+
+# Crowdsourcing
+
+El-Erian---"Leveraging underutilized assets"
+
+
+# Student Feedback
+
+# Conclusion
 
 
 <!--- STYLE GUIDE FROM: https://jfed.scholasticahq.com/for-authors
